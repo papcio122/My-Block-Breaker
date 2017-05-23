@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f60f0828e2f1b4ad7b9c6f807e00804a
+timeCreated: 1490191573
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DemonCubicBlockFont Dark
+  fontNames:
+  - DemonCubicBlockFont Dark
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
